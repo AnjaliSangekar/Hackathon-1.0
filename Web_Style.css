@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.form{
+    background-color: rgb(137, 146, 144);
+    font-size: xx-large;
+    font-weight: bold;
+    color: rgb(102, 70, 161);
+    padding: 10px;
+    margin: 100px;
+    width: 1200px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+p1{
+    color: brown;
+    font-style: italic;
+}
+
+.image{
+    float: right;
+    height: 460px;
+    width: 500px;
+}
+
+body{
+    background-image: url(https://it.com.sg/wp-content/uploads/2019/10/coding-courses-singapore.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    color: rgb(230, 188, 112);
+    font-size: 20px;
+    background-repeat: no-repeat;
+}
+
+.welcome{
+    background-attachment: fixed;
+    position: sticky;
+    top: 10px;
+    }
+
+h1{
+    color: rgb(81, 35, 189);
+    font-style: oblique;
+    text-align: center;
+    border: 3px solid white;
+    margin: 50px;
+    padding: 10px;
+    font-size: 35px;
+}
+
+P{
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+.survey-form{
+    width: 800px;
+    height: 1850px;
+    background-color:  rgb(49, 45, 45);
+    padding: 60px;
+    margin: 70px auto;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 23px;
+    position: sticky;
+    z-index: 1000;
+}
+.form-label{
+    border-radius: 6px;
+    padding: 10px;
+    border: 2px solid black;
+    width: 100%;
+    font-size: large;
+}
+
+.form-text{
+    width: 100%;
+    height: 120px;
+    border-radius: 6px;
+    padding: 10px;
+    border: 2px solid rgb(22, 20, 51);
+    font-size: large;
+}
+
+.submit-button{
+       background-color: rgb(97, 235, 97);
+       border-radius: 2px;
+       padding: 10px;
+       width: 100%;
+       font-size: 20px;
+       text-align: center;
+}
+
+.start{
+    background-color: green;
+    border: 2px solid black;
+    border-radius: 3px;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.start:hover{
+    background-color: rgb(108, 247, 108); 
+    
+}
+
+input{
+    color: rgb(187, 27, 27);
+    font-weight: 700;
+}
+textarea{
+    color: rgb(187, 27, 27);
+    font-weight: 700;
+}
+.option{
+    color: rgb(187, 27, 27);
+}
+select{
+    color: rgb(187, 27, 27);
+    font-weight: 700;
+}
+.choose{
+    color: rgb(187, 27, 27);
+}
